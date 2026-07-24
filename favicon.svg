@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="16" y="16" width="32" height="32" rx="4" transform="rotate(45 32 32)" fill="hsl(253, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>정선 민둥산 억새</title>
+  <rect width="64" height="64" rx="17" fill="hsl(32 43% 29%)"/>
+  <g transform="rotate(0 32 32)"><rect x="15" y="15" width="28" height="28" rx="6" fill="none" stroke="hsl(32 24% 96%)" stroke-width="7"/><rect x="25" y="25" width="24" height="24" rx="6" fill="hsl(173 68% 63%)"/></g>
+</svg>
